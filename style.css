@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    background:linear-gradient(90deg,rgb(241, 162, 113) 25%,rgb(240, 156, 211) 75%);
+}
+label{
+    color: white;
+    font-weight: bold;
+}
+.selectall{
+    position: relative;
+    left: 20px;
+}
